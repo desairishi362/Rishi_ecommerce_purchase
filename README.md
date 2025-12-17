@@ -25,3 +25,18 @@ This repository includes:
 1. Clone the repository.
    ```bash
    git clone https://github.com/desairishi362/Rishi_ecommerce_purchase.git
+
+2.Install the required libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn
+
+3. Open the Jupyter Notebook Rishi_ecommerce_purchase_.ipynb and run the analysis.
+4. Use the dataset Ecommerce Purchases.csv for further analysis or to customize the project.
+
+## Visualizations Included:
+Bar charts and graphs showing purchase values.
+Distribution of transactions based on browser and time (AM/PM).
+
+## Contribution
+Feel free to fork this repository, make improvements, and submit a pull request. Contributions are always welcome!
+
